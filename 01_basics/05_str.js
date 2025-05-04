@@ -31,5 +31,3 @@ console.log(gamename1.split('-'));
 
 
 
-
-
