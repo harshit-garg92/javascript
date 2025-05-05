@@ -31,13 +31,14 @@ const arr1 = myarr.join()
 
 // console.log(typeof arr1);
 
-console.log("A ",myarr);
+// console.log("A ",myarr);
 
 const myn1=myarr.slice(1,3)
-console.log(myn1);
+// console.log(myn1);
 
-console.log("B ",myarr);
+// console.log("B ",myarr);
 const myn2=myarr.splice(1,3)
-console.log("C ",myarr);
+// console.log("C ",myarr);
 
-console.log(myn2);
+// console.log(myn2);
+
