@@ -56,5 +56,31 @@ const users=[
 // console.log(Object.values(tinderuser));
 // // length
 // console.log(Object.entries(tinderuser));
-console.log(tinderuser.hasOwnProperty('islogged'));
-console.log(tinderuser.hasOwnProperty('isloggedin'));
+// console.log(tinderuser.hasOwnProperty('islogged'));
+// console.log(tinderuser.hasOwnProperty('isloggedin'));
+
+const course ={
+    coursename:"js",
+    price:"999",
+    mentor:"azv"
+}
+// course.mentor
+const {mentor:profsor}=course
+console.log(profsor);
+
+// const navbar= ({company}) => {
+
+// }
+// navbar(company="as")
+
+
+// {
+//     "name":"dfbxdgf"
+//     "coursename":"js"
+//     "price":"free"
+// }
+[
+    {},
+    {},
+    {}
+]
